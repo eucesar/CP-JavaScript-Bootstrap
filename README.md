@@ -6,6 +6,7 @@
 </p>
 
 > 🌱👨‍💻 -  I took a FIAP test on the subject of WEB, with the aim of using Programming Logic in JavaScript and Framework in HMTL using Bootstrap.
+> - There is a '.pdf' file inside the 'checkpoint-05-Cesar e Luqueta' folder, explaining the topics of the exercises and what each one had to have to be considered a grade 10, and a little better than the test proposal (CP) .
 
 ## Download
 
